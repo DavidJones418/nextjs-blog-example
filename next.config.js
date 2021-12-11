@@ -6,5 +6,4 @@ module.exports = {
     urlImports: ['https://cdn.skypack.dev'],
   },
   reactStrictMode: true,
-  swcMinify: true,
 }
